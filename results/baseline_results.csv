@@ -1,0 +1,9 @@
+Question,Ground Truth,Predicted,Exact Match,Error
+"Who is the wife of the actor who played 'Neo' in The Matrix, and what is her birth year?",alexandra grant,"The information provided does not mention Keanu Reeves' wife or partner. However, it is known that Keanu Reeves is in a relationship with artist Alexandra Grant.",1,None
+Who was the childhood best friend of the oldest person alive in 1850?,unavailable,"Unfortunately, I was unable to find information about Conrad Heyer's childhood best friend.",0,None
+"What is the name of the fourth studio album released by the band that wrote 'Stairway to Heaven', and what month was it released?",november,"The name of the fourth studio album released by the band that wrote 'Stairway to Heaven' is Led Zeppelin IV, and it was released in November 1971.",1,None
+Who was the mayor of the lost city of Atlantis during the year 1492?,unavailable,"There is no information about the lost city of Atlantis in the provided Wikipedia summary. The city of Atlantis is a mythological place described by the ancient Greek philosopher Plato as a powerful and advanced civilization that existed in the distant past. It is not a real place that existed in 1492 or any other historical time period.
+
+Therefore, it is not possible to provide information about the mayor of the lost city of Atlantis during the year 1492.",0,None
+What profession does Nicholas Ray and Elia Kazan have in common?,director,Both Nicholas Ray and Elia Kazan are film directors.,0,None
+"Which magazine was started first, Arthur's Magazine or First for Women?",arthur's magazine,"Based on the information found, Arthur's Magazine was started first in 1844, and First for Women was started in 1989.",1,None

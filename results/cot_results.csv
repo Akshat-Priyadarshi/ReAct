@@ -1,0 +1,77 @@
+Question,Ground Truth,Predicted,Exact Match,Error
+"Who is the wife of the actor who played 'Neo' in The Matrix, and what is her birth year?",alexandra grant,"To answer this question, I will follow these steps:
+
+1. Identify the actor who played 'Neo' in The Matrix.
+2. Find information about the actor's wife.
+3. Determine the birth year of the actor's wife.
+
+Step 1: Identify the actor who played 'Neo' in The Matrix.
+The actor who played 'Neo' in The Matrix is Keanu Reeves.
+
+Step 2: Find information about the actor's wife.
+Keanu Reeves has been married to Alexandra Grant since 2022. However, before that, he was in a long-term relationship with Jennifer Syme, but they were not married. 
+
+Step 3: Determine the birth year of the actor's wife.
+Since Keanu Reeves is married to Alexandra Grant, I will look for her birth year. Alexandra Grant was born in 1973.
+
+So, the answer to the question is: Alexandra Grant, born in 1973.",1,None
+Who was the childhood best friend of the oldest person alive in 1850?,unavailable,"To answer this question, we need to follow these steps:
+
+1. Identify the oldest person alive in 1850: Unfortunately, there is no definitive record of the oldest person alive in 1850. However, according to Guinness World Records, the oldest verified age on record is held by Jeanne Calment, who lived to be 122 years and 164 days old. However, she was born in 1875, so it's unlikely she would have been alive in 1850.
+
+2. Since we can't find the oldest person alive in 1850, we can't identify their childhood best friend.
+
+3. Given the lack of information, the answer to the question is 'unavailable'.",1,None
+"What is the name of the fourth studio album released by the band that wrote 'Stairway to Heaven', and what month was it released?",november,"To answer this question, I'll follow these steps:
+
+1. Identify the band that wrote 'Stairway to Heaven'. The band is Led Zeppelin.
+2. Determine the discography of Led Zeppelin's studio albums. Their studio albums are:
+   - Led Zeppelin (1969)
+   - Led Zeppelin II (1969)
+   - Led Zeppelin III (1970)
+   - Led Zeppelin IV (1971)
+   - Physical Graffiti (1975)
+   - Presence (1976)
+   - In Through the Out Door (1977)
+   - Coda (1982)
+3. Since the question asks for the fourth studio album, I'll identify it from the list above. The fourth studio album is Led Zeppelin IV.
+4. Determine the release month of Led Zeppelin IV. Led Zeppelin IV was released in November 1971.
+
+So, the answer is: Led Zeppelin IV, released in November 1971.",1,None
+Who was the mayor of the lost city of Atlantis during the year 1492?,unavailable,"To answer this question, I'll break it down into steps:
+
+1. **Existence of Atlantis**: The city of Atlantis is described in ancient Greek literature, particularly in Plato's dialogues Timaeus and Critias. However, there is no scientific evidence to prove the existence of Atlantis.
+
+2. **Historical records**: Since Atlantis is not confirmed to exist, there are no historical records of its mayors or any other officials.
+
+3. **Year 1492**: This is a specific year in history, during which Christopher Columbus made his famous voyage to the Americas. However, this event is not related to the city of Atlantis.
+
+4. **Conclusion**: Given that Atlantis is not confirmed to exist, and there are no historical records of its mayors, it is not possible to identify a mayor of the lost city of Atlantis during the year 1492.
+
+Therefore, the answer is: unavailable.",1,None
+What profession does Nicholas Ray and Elia Kazan have in common?,director,"To answer this question, I will break it down into steps:
+
+1. Identify the professions of Nicholas Ray and Elia Kazan.
+2. Compare the identified professions to find a commonality.
+
+Step 1: 
+- Nicholas Ray was an American film director, screenwriter, and actor.
+- Elia Kazan was an American film and theater director, producer, and screenwriter.
+
+Step 2:
+- Both Nicholas Ray and Elia Kazan were involved in film and theater, but the question asks for a profession they have in common.
+- Based on the information, both Nicholas Ray and Elia Kazan were directors.
+
+Therefore, the profession that Nicholas Ray and Elia Kazan have in common is a director.",1,None
+"Which magazine was started first, Arthur's Magazine or First for Women?",arthur's magazine,"To answer this question, I'll follow these steps:
+
+1. Research the history of Arthur's Magazine.
+2. Research the history of First for Women.
+
+Step 1: Researching Arthur's Magazine
+- Unfortunately, I couldn't find any information on a magazine called 'Arthur's Magazine'. It's possible that it's a lesser-known or defunct magazine.
+
+Step 2: Researching First for Women
+- First for Women is a women's magazine that was first published in 1995 in the United States.
+
+Since I couldn't find any information on 'Arthur's Magazine', I'll conclude that the answer is unavailable.",1,None
