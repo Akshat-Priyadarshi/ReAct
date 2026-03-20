@@ -5,7 +5,7 @@
 
 ---
 
-## 1. The Starting Line: What Are We Trying to Do?
+## 1. What Are We Trying to Do?
 
 Imagine a brilliant scholar who has read millions of books but is now locked in a room without internet access. If you ask them a highly specific trivia question about an event from yesterday, they don't know the answer. However, because they are programmed to be helpful, they might just confidently make up a realistic-sounding lie.
 
