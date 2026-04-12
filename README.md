@@ -1,6 +1,6 @@
 # ReAct: Synergizing Reasoning and Acting in Language Models
 
-**Team:** Four of a kind
+**Team:** Three of a kind
 **Course:** Machine Learning (CS60050) | IIT Kharagpur
 
 ## Project Overview
