@@ -5,7 +5,7 @@
 
 ## Project Overview
 
-This project presents an experimental evaluation of agent-based reasoning under compute constraints. We evaluate the vulnerabilities of standard Chain-of-Thought (CoT) prompting and baseline ReAct architectures on multi-hop and adversarial factual queries. To address these vulnerabilities, we introduce a **Memory-Augmented ReAct Agent** that utilizes a stateful conversation buffer to achieve meta-cognition, effectively preventing infinite API search loops and improving autonomous task resolution.
+This project presents an experimental evaluation of agent-based reasoning under computational constraints. We evaluate the vulnerabilities of standard Chain-of-Thought (CoT) prompting and baseline ReAct architectures on multi-hop and adversarial factual queries. To address these vulnerabilities, we introduce a **Memory-Augmented ReAct Agent** that utilizes a stateful conversation buffer to achieve meta-cognition, effectively preventing infinite API search loops and improving autonomous task resolution.
 
 ## Models and Infrastructure
 
